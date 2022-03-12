@@ -1,3 +1,32 @@
+body{
+    background-color: rgba(144, 235, 204, 0.589);
+}
 h1{
-    color: brown;
+    color:brown;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    text-align: center;
+}
+.img{
+    width: 700px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+footer{
+    height: 80px;
+    text-align: center;
+    background-color: rgb(68, 64, 64);
+}
+p{
+    margin-top: 3px;
+    color: white;
+}
+.img-alamin{
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 60px;
 }
